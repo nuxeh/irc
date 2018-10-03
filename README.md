@@ -27,6 +27,7 @@ projects:
 - [irc-bot.rs][ircbot] — a library for writing IRC bots
 - [playbot_ng][playbot_ng] — a Rust-evaluating IRC bot in Rust
 - [bunnybutt-rs][bunnybutt] — an IRC bot for the [Feed The Beast Wiki][ftb-wiki]
+- [url-bot-rs][url-bot-rs] — a URL-fetching IRC bot
 
 [alectro]: https://github.com/aatxe/alectro
 [spilo]: https://github.com/aatxe/spilo
